@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    jumble_solver (0.0.1)
+    anagram_solver (0.0.1)
 
 GEM
   remote: https://rubygems.org/
@@ -21,7 +21,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  anagram_solver!
   bundler (~> 1.3)
-  jumble_solver!
   rake
   rspec (~> 2.14)
