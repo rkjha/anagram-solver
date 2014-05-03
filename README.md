@@ -24,10 +24,10 @@ Or install it yourself as:
     as = AnagramSolver::Anagram.new
  
     as.solve("rat")
-    ==> ["art", "rat", "tar"]
+    => ["art", "rat", "tar"]
     
     as.solve("ouhioyuyyy")
-	  ==> []
+    => []
 
 ### Website
 [http://anagramsolver.me](http://anagramsolver.me)
