@@ -22,11 +22,11 @@ Or install it yourself as:
 ## Usage
 
     as = AnagramSolver::Anagram.new
-    
+ 
     as.solve("rat")
-	  ==> ["art", "rat", "tar"]
-	  
-	  as.solve("huohuo")
+    ==> ["art", "rat", "tar"]
+    
+    as.solve("ouhioyuyyy")
 	  ==> []
 
 ### Website
