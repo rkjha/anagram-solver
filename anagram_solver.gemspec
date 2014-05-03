@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'anagram_solver/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "anagram_solver"
+  spec.name          = "the_anagram_solver"
   spec.version       = AnagramSolver::VERSION
   spec.authors       = ["Ramesh Jha"]
   spec.email         = ["ramesh@rameshjha.com"]

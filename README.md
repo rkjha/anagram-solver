@@ -9,7 +9,7 @@ An empty array will be returned if no valid anagrams are available for a word.
 
 Add this line to your application's Gemfile:
 
-    gem 'anagram_solver'
+    gem 'the_anagram_solver'
 
 And then execute:
 
@@ -17,7 +17,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install anagram_solver
+    $ gem install the_anagram_solver
 
 ## Usage
 
